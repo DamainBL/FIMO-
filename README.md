@@ -1,2 +1,4 @@
 # FIMO
-Filtro inteligente para material particulado proyecto unal
+# Integrantes
+# Introducción
+Filtro inteligente de material particulado
