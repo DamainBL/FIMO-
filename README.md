@@ -74,8 +74,8 @@ El alcance que esperamos es que este prototipo sea utilizado por los Bogotanos p
 
 # DISEÑO 3D
 
-|[](https://github.com/DamainBL/FIMO-/blob/main/github1.png)
-|[](https://github.com/DamainBL/FIMO-/blob/main/github2.png)
+![](https://github.com/DamainBL/FIMO-/blob/main/github1.png)
+![](https://github.com/DamainBL/FIMO-/blob/main/github2.png)
 
 # CRONOGRAMA
 
