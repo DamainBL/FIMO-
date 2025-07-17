@@ -90,5 +90,5 @@ MODELO DE LA CARCASA
 pero buscando una reducción de costos y optimizando el tiempo y debido a que era mucho más sencillo hacerlo en otro material, en este caso madera, optamos por utilizar este material, lo cual nos dio como resultado las siguientes imágenes
 
 MODELO FINAL
-![](https://github.com/DamainBL/FIMO-/blob/main/github3.png)
+![](https://github.com/DamainBL/FIMO-/blob/main/github3.jpeg)
 
