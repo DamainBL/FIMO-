@@ -94,9 +94,9 @@ MODELO FINAL
 
 # DIAGRAMA DE CAJA NEGRA  
 
-![](https://github.com/DamainBL/FIMO-/blob/main/captura1.png)
+![](https://github.com/DamainBL/FIMO-/blob/main/Captura1.png)
 
 # DIAGRAMA DE FLUJO
 
-![](https://github.com/DamainBL/FIMO-/blob/main/captura2.png)
+![](https://github.com/DamainBL/FIMO-/blob/main/Captura2.png)
 
