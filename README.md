@@ -75,19 +75,20 @@ El alcance que esperamos es que este prototipo sea utilizado por los Bogotanos p
 
 # CRONOGRAMA
 
-añadir
+![](https://github.com/DamainBL/FIMO-/blob/main/CRONOGRAMA.png)
 
 # DISEÑO 3D
 
 Al principio del proyecto teníamos planeado hacer el case en impresión 3D usando como material plastico ABS y los siguientes modelos 3d
 
-modelo con el sistema ensanblado
+MODELO DEL ENSAMBLE
 ![](https://github.com/DamainBL/FIMO-/blob/main/github1.png)
 
-modelo sin el sistema ensanblado solo carcasa
+MODELO DE LA CARCASA
 ![](https://github.com/DamainBL/FIMO-/blob/main/github2.png)
 
 pero buscando una reducción de costos y optimizando el tiempo y debido a que era mucho más sencillo hacerlo en otro material, en este caso madera, optamos por utilizar este material, lo cual nos dio como resultado las siguientes imágenes
 
-
+MODELO FINAL
+![](https://github.com/DamainBL/FIMO-/blob/main/github3.png)
 
