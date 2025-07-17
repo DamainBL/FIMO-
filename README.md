@@ -72,12 +72,22 @@ herramienta de conciencia ambiental.
 
 El alcance que esperamos es que este prototipo sea utilizado por los Bogotanos propietarios de un automotor, siendo el incentivo que esto no solamente cumpla con las normas ambientales, sino que también el hollín al ser un material reutilizable, ellos puedan sacar provecho de este.
 
-# DISEÑO 3D
-
-![](https://github.com/DamainBL/FIMO-/blob/main/github1.png)
-![](https://github.com/DamainBL/FIMO-/blob/main/github2.png)
 
 # CRONOGRAMA
 
 añadir
+
+# DISEÑO 3D
+
+Al principio del proyecto teníamos planeado hacer el case en impresión 3D usando como material plastico ABS y los siguientes modelos 3d
+
+modelo con el sistema ensanblado
+![](https://github.com/DamainBL/FIMO-/blob/main/github1.png)
+
+modelo sin el sistema ensanblado solo carcasa
+![](https://github.com/DamainBL/FIMO-/blob/main/github2.png)
+
+pero buscando una reducción de costos y optimizando el tiempo y debido a que era mucho más sencillo hacerlo en otro material, en este caso madera, optamos por utilizar este material, lo cual nos dio como resultado las siguientes imágenes
+
+
 
