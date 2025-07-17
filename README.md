@@ -72,6 +72,11 @@ herramienta de conciencia ambiental.
 
 El alcance que esperamos es que este prototipo sea utilizado por los Bogotanos propietarios de un automotor, siendo el incentivo que esto no solamente cumpla con las normas ambientales, sino que también el hollín al ser un material reutilizable, ellos puedan sacar provecho de este.
 
+# DISEÑO 3D
+
+[](https://github.com/DamainBL/FIMO-/blob/main/github1.png)
+[](https://github.com/DamainBL/FIMO-/blob/main/github2.png)
+
 # CRONOGRAMA
 
 añadir
