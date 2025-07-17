@@ -92,3 +92,11 @@ pero buscando una reducción de costos y optimizando el tiempo y debido a que er
 MODELO FINAL
 ![](https://github.com/DamainBL/FIMO-/blob/main/github3.jpeg)
 
+# DIAGRAMA DE CAJA NEGRA  
+
+![](https://github.com/DamainBL/FIMO-/blob/main/captura1.png)
+
+# DIAGRAMA DE FLUJO
+
+![](https://github.com/DamainBL/FIMO-/blob/main/captura2.png)
+
