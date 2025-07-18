@@ -3,13 +3,13 @@
 ![](https://github.com/DamainBL/FIMO-/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 # Integrantes
 
-Juan Jose Franco Melo
+* Juan Jose Franco Melo
 
-Juan Jose Martinez Reyes
+* Juan Jose Martinez Reyes
 
-Carlos Steven cardenas
+* Carlos Steven cardenas
 
-Damian Bermudez Lara
+* Damian Bermudez Lara
 
 # Introducción
 
