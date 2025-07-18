@@ -17,11 +17,11 @@ El material particulado (MP), especialmente el generado por vehículos de combus
 
 # PALABRAS CLAVES
 
-Material paarticulado
+* Material paarticulado
 
-Filtro
+* Filtro
 
-Sensores 
+* Sensores 
 
 Microcontrolador
 
