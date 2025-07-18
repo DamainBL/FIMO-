@@ -29,10 +29,6 @@ Microcontrolador
 
 pendiente
 
-# BANNER PROYECTO FINAL
-
-pendiente
-
 # VIDEO
 
 pendiente
@@ -46,26 +42,25 @@ Este proyecto se enfoca en el ODS 13, el cual trata de la acción por el clima, 
 
 En el desarrollo del proyecto se pactaron estos objetivos.
 
--Objetivo general
+* Objetivo general
 
 Contribuir a la disminución de la contaminación am-
 biental restringiendo la emisión de material particulado
 proveniente de los automóviles.
 
--Objetivos específicos
+* Objetivos específicos
 
-Diseñar y construir un prototipo portátil capaz de
+1. Diseñar y construir un prototipo portátil capaz de
 capturar particulas de hollin de los tubos de escape de
 vehículos de combustión o del aire urbano.
 
-Implementar un sistema de alimentación energética
+2. Implementar un sistema de alimentación energética
 autónoma y eficiente, evaluando el consumo eléctrico
 del ESP 32 y los sensores, e integrando posibles
 soluciones como baterías recargables o alimentación
 desde el vehículo.
 
-
-Evaluar el impacto potencial del dispositivo en la reduc-
+3. Evaluar el impacto potencial del dispositivo en la reduc-
 ción de partículas contaminantes y su aplicación como
 herramienta de conciencia ambiental.
 
