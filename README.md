@@ -88,3 +88,17 @@ MODELO FINAL
 
 ![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/Captura2.PNG)
 
+# CONCLUSION
+
+Desde el inicio, se planteo como se quería culminar el proyecto, la meta era lograr desarrollar un prototipo capaz de retener el MP(Material particulado) el cual era derivado de la combustión de combustibles fósiles para así ayudar a cuidar el medio ambiente y la salud de nosotros mismos. Se logró retener el MP en un 80% lo cual es una muestra de la capacidad del filtro sumado a reportes continuos que se recolectaban de los sensores que evidencian la eficiencia y fiabilidad del filtro.
+
+# RECOMENDACIONES
+
+Al desarrollar el proyecto nos dimos cuenta que al ser nuestro primer proyecto teniamos varias falencias, asi que las recomendaciones para proyectos futuros sobre todo lo que aprendimos desarrollando este proyecto son las siguientes:
+
+* Organizar mejor el tiempo
+* Mantener comunicacion activa con el grupo
+* Aportar ideas sean buenas o malas
+* Apoyar en lo que se pueda a los demas compañeros
+* Trabajar en equipo (Complementarse)
+
