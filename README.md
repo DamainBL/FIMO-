@@ -1,6 +1,6 @@
 # FIMO
 
-![](https://github.com/DamainBL/FIMO-/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
+![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 # INTEGRANTES
 
 * Juan Jose Franco Melo
@@ -62,28 +62,28 @@ El alcance que esperamos es que este prototipo sea utilizado por los Bogotanos p
 
 # CRONOGRAMA
 
-![](https://github.com/DamainBL/FIMO-/blob/main/CRONOGRAMA.png)
+![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/CRONOGRAMA.png)
 
 # DISEÑO 3D
 
 Al principio del proyecto teníamos planeado hacer el case en impresión 3D usando como material plastico ABS y los siguientes modelos 3d
 
 MODELO DEL ENSAMBLE
-![](https://github.com/DamainBL/FIMO-/blob/main/github1.png)
+![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/github1.png)
 
 MODELO DE LA CARCASA
-![](https://github.com/DamainBL/FIMO-/blob/main/github2.png)
+![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/github2.png)
 
 pero buscando una reducción de costos y optimizando el tiempo y debido a que era mucho más sencillo hacerlo en otro material, en este caso madera, optamos por utilizar este material, lo cual nos dio como resultado las siguientes imágenes
 
 MODELO FINAL
-![](https://github.com/DamainBL/FIMO-/blob/main/github3.jpeg)
+![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/github3.jpeg)
 
 # DIAGRAMA DE CAJA NEGRA  
 
-![](https://github.com/DamainBL/FIMO-/blob/main/Captura1.PNG)
+![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/Captura1.PNG)
 
 # DIAGRAMA DE FLUJO
 
-![](https://github.com/DamainBL/FIMO-/blob/main/Captura2.PNG)
+![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/Captura2.PNG)
 
