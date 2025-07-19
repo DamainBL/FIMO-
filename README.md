@@ -1,6 +1,7 @@
 # FIMO
 
 ![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
+
 # INTEGRANTES
 
 * Juan Jose Franco Melo
