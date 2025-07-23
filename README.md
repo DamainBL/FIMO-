@@ -80,6 +80,8 @@ pero buscando una reducción de costos y optimizando el tiempo y debido a que er
 MODELO FINAL
 ![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/github3.jpeg)
 
+# DISEÑO DE LA PCB 
+# ESQUEMATICO PCB
 # DIAGRAMA DE CAJA NEGRA  
 
 ![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/Captura1.PNG)
