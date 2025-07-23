@@ -22,8 +22,7 @@ El material particulado (MP), especialmente el generado por vehículos de combus
 
 # VIDEO
 
-[![](https://img.youtube.com/vi/TU_CODIGO_DE_VIDEO/0.jpg)](https://youtu.be/FjSixkWypiU?si=Z_UNcDvtLf3D4SYR)
-
+<iframe width="560" height="315" src="https://youtu.be/FjSixkWypiU?si=Z_UNcDvtLf3D4SYR" frameborder="0" allowfullscreen></iframe>
 
 # PROBLEMATICA
 
