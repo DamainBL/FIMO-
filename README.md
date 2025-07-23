@@ -81,7 +81,13 @@ MODELO FINAL
 ![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/github3.jpeg)
 
 # DISEÑO DE LA PCB 
+
+![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/dise%C3%B1o.png)
+
 # ESQUEMATICO PCB
+
+![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/esquematico.png)
+
 # DIAGRAMA DE CAJA NEGRA  
 
 ![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/Captura1.PNG)
