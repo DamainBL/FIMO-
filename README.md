@@ -18,11 +18,12 @@ El material particulado (MP), especialmente el generado por vehículos de combus
 
 # POSTER
 
-pendiente
+![](https://github.com/DamainBL/FIMO-/blob/main/imagenes/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 
 # VIDEO
 
-pendiente
+[![](https://img.youtube.com/vi/TU_CODIGO_DE_VIDEO/0.jpg)](https://youtu.be/FjSixkWypiU?si=Z_UNcDvtLf3D4SYR)
+
 
 # PROBLEMATICA
 
